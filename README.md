@@ -120,4 +120,3 @@ An **interactive Power BI dashboard** showing:
 
 * 🎓 B.Sc. \[Hons] Computer Science & Data Analytics – IIT Patna
 * 💻 Passionate about **Data Analytics, Visualization & Data Science**
-
