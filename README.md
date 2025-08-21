@@ -81,7 +81,7 @@ An **interactive Power BI dashboard** showing:
 
 ## 📷 Dashboard Preview
 
-*(Add screenshot of your dashboard here once built)*
+*https://github.com/Virvivek007/Digital-Library-Usage--PowerBi/blob/main/Dashboard_image.png*
 
 ---
 
